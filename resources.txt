@@ -1,6 +1,8 @@
 https://raphaeldelio.medium.com/chaining-kafka-and-database-transactions-with-spring-boot-an-in-depth-look-2a7e0e4fe57c
 https://piotrminkowski.com/2022/10/29/kafka-transactions-with-spring-boot/
 
+https://medium.com/@turkishtechnology/retry-and-dead-letter-queue-in-kafka-28335b43c832
+
 
 bin/kafka-server-start.sh config/server.properties
 bin/zookeeper-server-start.sh config/zookeeper.properties
